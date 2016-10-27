@@ -2,9 +2,9 @@
 
 ## Consignes
 
-L’exercice consiste à produire des définitions de termes relatifs au domaine de la documentation muséale. Vos textes doivent être concis (500 caractères) mais rigoureux et précis. Le glossaire doit être rédigé à destination de spécialistes de la muséologie. Chaque entrée pourra être complétée d’une courte sélection de références bibliographiques ou webographiques, et de liens hypertextes.
+L’exercice consiste à produire des définitions de termes relatifs au domaine de la documentation muséale. Le texte de vos notices doit être concis (c. 1 000 caractères) mais explicite, rigoureux et précis. Le glossaire est rédigé à destination de spécialistes de la muséologie. Chaque entrée pourra être complétée d’une courte sélection de références bibliographiques ou webographiques, et de liens hypertextes.
 
-Parmi vos trois choix, vous devez au moins sélectionner une entrée concernant un modèle documentaire ou un format : CCWA, CCO, Cidoc-CRM, Dublin Core, EDM, FRBR, FOAF, LIDO, METS, RDDA, SKOS, VRA, XMP
+Parmi les trois choix que vous devez effectuer, vous devez au moins sélectionner une entrée concernant un modèle documentaire ou un format : CCWA, CCO, Cidoc-CRM, Dublin Core, EDM, FRBR, FOAF, LIDO, METS, RDDA, SKOS, VRA, XMP
 
 - Créez un compte sur la plateforme GitHub pour pouvoir modifier ce document.
 - Indiquez votre nom sous les entrées que vous avez choisies en modifiant le document dans l’interface. Vous devez au moins produire une notice sur un modèle documentaire.
@@ -14,7 +14,7 @@ Parmi vos trois choix, vous devez au moins sélectionner une entrée concernant 
 Dates de rendu :
 - première définition 11 novembre
 - deuxième définition 16 novembre
-- troisième définition 
+- troisième définition 24 novembre
 
 ## Entrées
 
