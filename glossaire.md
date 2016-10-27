@@ -35,13 +35,13 @@ Ophélie Clermont
 ### Champ
 
 ### CIDOC-CRM
+Jean-Michel Godbout
 
 ### DDV Parcs (Dictionnaire descriptif et visuel d'objets de Parcs Canada)
 
 ### Dictionnaires de données du RCIP
 
 ### Dublin Core
-Jean-Michel Godbout
 
 ### EDM (Europeana Data Model)
 
