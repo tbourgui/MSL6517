@@ -40,6 +40,7 @@ Ophélie Clermont
 ### Dictionnaires de données du RCIP
 
 ### Dublin Core
+Jean-Michel Godbout
 
 ### EDM (Europeana Data Model)
 
@@ -65,6 +66,7 @@ Ophélie Clermont
 ### Mapping
 
 ### Métadonnées
+Jean-Michel Godbout
 
 ### Modèle documentaire ou Modèle conceptuel de données
 
@@ -124,5 +126,6 @@ Ophélie Clermont
 ### Vocabulaire contrôlé
 
 ### Web sémantique
+Jean-Michel Godbout
 
 ### XMP (Extensible Metadata Platform)
