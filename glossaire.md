@@ -7,6 +7,7 @@ L’exercice consiste à produire des définitions de termes relatifs au domaine
 Parmi les trois choix que vous devez effectuer, vous devez au moins sélectionner une entrée concernant un modèle documentaire ou un format : CCWA, CCO, Cidoc-CRM, Dublin Core, EDM, FRBR, FOAF, LIDO, METS, RDDA, SKOS, VRA, XMP
 
 - Créez un compte sur la plateforme GitHub pour pouvoir modifier ce document.
+- Déclarez vous ci-dessous pour que vous donne les droits sur le répertoire ici https://github.com/museonum/MSL6517/issues/2
 - Indiquez votre nom sous les entrées que vous avez choisies en modifiant le document dans l’interface. Vous devez au moins produire une notice sur un modèle documentaire.
 - Après avoir rédigé le texte de votre entrée sur votre ordinateur,
   insérez votre travail dans le document, dans le message de modification précisez votre nom si votre pseudo n’est pas explicite sur la plateforme.
