@@ -29,6 +29,7 @@ Dates de rendu :
 ### CCWA (Categories for the Description of Works of Art)
 
 ### CCO (Cataloguing Cultural Objects)
+Ophélie Clermont
 
 ### Champ
 
@@ -49,6 +50,7 @@ Dates de rendu :
 ### Fichier d’autorité
 
 ### Folksonomie
+Ophélie Clermont
 
 ### Format (de métadonnées, d’un modèle documentaire)
 
@@ -101,6 +103,7 @@ Dates de rendu :
 ### Resource (au sens du web)
 
 ### Système de classification Info-Muse pour les musées d’ethnologie, d’histoire et d’archéologie historique
+Ophélie Clermont
 
 ### Système de classification Info-Muse pour les musées de beaux-arts et d’arts décoratifs
 
