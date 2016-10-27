@@ -26,7 +26,7 @@ Dates de rendu :
 
 ### Classification
 
-### CCWA (Categories for the Description of Works of Art)
+### CDWA (Categories for the Description of Works of Art)
 
 ### CCO (Cataloguing Cultural Objects)
 Ophélie Clermont
@@ -77,12 +77,14 @@ Jean-Michel Godbout
 ### Indexation
 
 ### Interopérabilité
+Isabelle Algrin
 
 ### International Organization for Standardization (ISO)
 
 ### Langage documentaire
 
 ### LIDO (Lightweight Information Describing Objects)
+Isabelle Algrin
 
 ### Linked Open Data
 
@@ -118,6 +120,7 @@ Ophélie Clermont
 ### Tag
 
 ### Thesaurus
+Isabelle Algrin
 
 ### URI Uniform Resource Identifier
 
