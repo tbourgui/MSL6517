@@ -27,9 +27,10 @@ Dates de rendu :
 
 ### Classification
 
-### CCWA (Categories for the Description of Works of Art)
+### CDWA (Categories for the Description of Works of Art)
 
 ### CCO (Cataloguing Cultural Objects)
+Ophélie Clermont
 
 ### Champ
 
@@ -40,6 +41,7 @@ Dates de rendu :
 ### Dictionnaires de données du RCIP
 
 ### Dublin Core
+Jean-Michel Godbout
 
 ### EDM (Europeana Data Model)
 
@@ -50,6 +52,7 @@ Dates de rendu :
 ### Fichier d’autorité
 
 ### Folksonomie
+Ophélie Clermont
 
 ### Format (de métadonnées, d’un modèle documentaire)
 
@@ -64,6 +67,7 @@ Dates de rendu :
 ### Mapping
 
 ### Métadonnées
+Jean-Michel Godbout
 
 ### Modèle documentaire ou Modèle conceptuel de données
 
@@ -74,12 +78,14 @@ Dates de rendu :
 ### Indexation
 
 ### Interopérabilité
+Isabelle Algrin
 
 ### International Organization for Standardization (ISO)
 
 ### Langage documentaire
 
 ### LIDO (Lightweight Information Describing Objects)
+Isabelle Algrin
 
 ### Linked Open Data
 
@@ -102,6 +108,7 @@ Dates de rendu :
 ### Resource (au sens du web)
 
 ### Système de classification Info-Muse pour les musées d’ethnologie, d’histoire et d’archéologie historique
+Ophélie Clermont
 
 ### Système de classification Info-Muse pour les musées de beaux-arts et d’arts décoratifs
 
@@ -114,6 +121,7 @@ Dates de rendu :
 ### Tag
 
 ### Thesaurus
+Isabelle Algrin
 
 ### URI Uniform Resource Identifier
 
@@ -122,5 +130,6 @@ Dates de rendu :
 ### Vocabulaire contrôlé
 
 ### Web sémantique
+Jean-Michel Godbout
 
 ### XMP (Extensible Metadata Platform)
