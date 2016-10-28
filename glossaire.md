@@ -57,6 +57,7 @@ Ophélie Clermont
 ### Format (de métadonnées, d’un modèle documentaire)
 
 ### FRBR (Functional Requirements for Bibliographic Records)
+Vanessa Michaud
 
 ### FOAF (Friend of a Friend)
 
@@ -76,6 +77,7 @@ Jean-Michel Godbout
 ### Profil d’application
 
 ### Indexation
+Vanessa Michaud
 
 ### Interopérabilité
 Isabelle Algrin
@@ -83,6 +85,7 @@ Isabelle Algrin
 ### International Organization for Standardization (ISO)
 
 ### Langage documentaire
+Vanessa Michaud
 
 ### LIDO (Lightweight Information Describing Objects)
 Isabelle Algrin
