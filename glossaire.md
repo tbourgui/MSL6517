@@ -22,6 +22,7 @@ Dates de rendu :
 ### API (Application Programming Interface)
 
 ### Base de données
+Laurie Beaudoin
 
 ### Catalogage
 
@@ -73,6 +74,7 @@ Jean-Michel Godbout
 ### Modèle documentaire ou Modèle conceptuel de données
 
 ### Protocole
+Laurie Beaudoin
 
 ### Profil d’application
 
@@ -98,7 +100,7 @@ Isabelle Algrin
 
 ### Ontologie
 
-### Protocole
+### Protocole (/!\, le terme est là deux fois ? LB 28-10-2016)
 
 ### Préservation (numérique)
 
@@ -107,6 +109,7 @@ Isabelle Algrin
 ### RDF (Resource Description Framework)
 
 ### Requête
+Laurie Beaudoin
 
 ### Resource (au sens du web)
 
