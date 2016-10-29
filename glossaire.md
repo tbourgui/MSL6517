@@ -29,6 +29,7 @@ Laurie Beaudoin
 ### Classification
 
 ### CDWA (Categories for the Description of Works of Art)
+Iloé Françon
 
 ### CCO (Cataloguing Cultural Objects)
 Ophélie Clermont
@@ -51,6 +52,7 @@ Jean-Michel Godbout
 ### Facette
 
 ### Fichier d’autorité
+Iloé Françon
 
 ### Folksonomie
 Ophélie Clermont
@@ -137,6 +139,7 @@ Isabelle Algrin
 ### VRA Core 4.0
 
 ### Vocabulaire contrôlé
+Iloé Françon
 
 ### Web sémantique
 Jean-Michel Godbout
