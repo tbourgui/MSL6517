@@ -103,8 +103,10 @@ Isabelle Algrin
 ### Protocole (/!\, le terme est là deux fois ? LB 28-10-2016)
 
 ### Préservation (numérique)
+Annie Breton
 
 ### RDDA (Règles pour la description des documents d'archives)
+Annie Breton
 
 ### RDF (Resource Description Framework)
 
@@ -117,6 +119,7 @@ Laurie Beaudoin
 Ophélie Clermont
 
 ### Système de classification Info-Muse pour les musées de beaux-arts et d’arts décoratifs
+Annie Breton
 
 ### SKOS (Simple Knowledge Organization System)
 
