@@ -44,6 +44,7 @@ Jean-Michel Godbout
 ### Dictionnaires de données du RCIP
 
 ### Dublin Core
+Maëlle Brogard
 
 ### EDM (Europeana Data Model)
 
@@ -95,12 +96,14 @@ Vanessa Michaud
 Isabelle Algrin
 
 ### Linked Open Data
+Maëlle Brogard
 
 ### METS (Metadata Encoding Transmission Schema)
 
 ### OAI-PMH (Open Archives Initiative Protocol for Metadata Harvesting)
 
 ### Ontologie
+Maëlle Brogard
 
 ### Protocole (/!\, le terme est là deux fois ? LB 28-10-2016)
 
