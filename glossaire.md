@@ -70,6 +70,7 @@ Vanessa Michaud
 ### HTTP (HyperText Transfer Protocol)
 
 ### Mapping
+Thibaut Bourguignon
 
 ### Métadonnées
 Jean-Michel Godbout
